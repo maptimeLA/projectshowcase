@@ -1,5 +1,4 @@
-# projectshowcase
-Maptime LA Project Showcase
+# Maptime LA Project Showcase
 
 ###The Goal
 Making a better maptimeLA website by creating a place for people to check out our projects!
